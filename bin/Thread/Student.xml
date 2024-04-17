@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Student>
+<sinhvien id = "0001">
+<name>Võ Nhật Huy</name>
+<address>Đà Nẵng</address>
+<dateOfBirth>11/7/2005</dateOfBirth> 
+</sinhvien>
+
+<sinhvien id="0002">
+<name>Đặng Lê Khánh Hòa</name>
+<address>Hà Nội</address>
+<dateOfBirth>19/5/2005</dateOfBirth> 
+</sinhvien>
+
+<sinhvien id="0003">
+<name>Nguyễn Bảo Quang Minh</name>
+<address>Huế</address>
+<dateOfBirth>14/2/2005</dateOfBirth> 
+</sinhvien>
+</Student>
